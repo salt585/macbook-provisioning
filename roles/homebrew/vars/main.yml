@@ -1,0 +1,24 @@
+---
+# file: ./homebrew/vars/main.yml
+
+taps:
+  - caskroom/cask
+  - caskroom/versions
+  - homebrew/boneyard
+
+packages:
+  - { name: ansible, state: present }
+  - { name: awscli, state: present }
+  - { name: battery, state: present }
+  - { name: git, state: present }
+  - { name: mycli, state: present }
+  - { name: mysql, state: present }
+  - { name: rbenv, state: present }
+  - { name: redis, state: present }
+  - { name: rmtrash, state: present }
+  - { name: ruby, state: present }
+  - { name: sbt, state: present }
+  - { name: vim, state: present }
+  - { name: tmux, state: present }
+  - { name: tree, state: present }
+  - { name: wget, state: present }
