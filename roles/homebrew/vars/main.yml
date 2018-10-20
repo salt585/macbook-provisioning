@@ -9,7 +9,7 @@ taps:
 packages:
   - { name: ansible, state: present }
   - { name: awscli, state: present }
-  - { name: gloes/battery/battery, state: present }
+  - { name: goles/battery/battery, state: present }
   - { name: git, state: present }
   - { name: mycli, state: present }
   - { name: mysql, state: present }
