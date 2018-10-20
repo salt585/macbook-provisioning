@@ -11,6 +11,7 @@ packages:
   - { name: awscli, state: present }
   - { name: goles/battery/battery, state: present }
   - { name: git, state: present }
+  - { name: mas, state: present }
   - { name: mycli, state: present }
   - { name: mysql, state: present }
   - { name: rbenv, state: present }
