@@ -9,4 +9,4 @@
   connection: local
   gather_facts: yes
   roles:
-
+    - homebrew
