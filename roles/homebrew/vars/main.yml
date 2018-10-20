@@ -14,6 +14,7 @@ packages:
   - { name: mycli, state: present }
   - { name: mysql, state: present }
   - { name: rbenv, state: present }
+  - { name: reattach-to-user-namespace, state: present }
   - { name: redis, state: present }
   - { name: rmtrash, state: present }
   - { name: ruby, state: present }
