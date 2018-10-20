@@ -1,6 +1,9 @@
 ---
 # file: ./mas/vars/main.yml
 
+apple:
+  - { id: APPLE_ID }
+
 packages:
   - { id: 443987910, name: 1Password }
   - { id: 918858936, name: Airmail 3 }

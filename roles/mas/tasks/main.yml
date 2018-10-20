@@ -2,6 +2,10 @@
 # file: ./mas/tasks/main.yml
 
 - block:
+  - name: Sign into tha Mac App Store
+    shell: "mas signin {{ item.id }}"
+    with_items: "{{ apple }}"
+
   - name: mas is installed
     shell: brew list
     register: mas_brew_list
