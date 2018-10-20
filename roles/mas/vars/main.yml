@@ -13,10 +13,10 @@ packages:
   - { id: 409183694, name: Keynote }
   - { id: 896624060, name: Kobito }
   - { id: 539883307, name: LINE }
-  - { id: 441258766, name: Magn }
+  - { id: 441258766, name: Magn } # Magnet
   - { id: 714196447, name: MenuBar Stats }
-  - { id: 1289197285, name: MindNo }
   - { id: 402398561, name: MindNode Pro }
+  - { id: 1289197285, name: MindNo }
   - { id: 409203825, name: Numbers }
   - { id: 409201541, name: Pages }
   - { id: 866773894, name: Quiver }
@@ -27,11 +27,11 @@ packages:
   - { id: 1152443474, name: Squash }
   - { id: 410479438, name: Tab Notes Free }
   - { id: 665702825, name: Tab Notes Theme Editor }
-  - { id: 600842582, name: TextScr }
+  - { id: 600842582, name: TextScr } # TextScrub
   - { id: 955848755, name: Theine }
-  - { id: 1278508951, name: Trello }
-  - { id: 1384080005, name: Tweetb }
   - { id: 425424353, name: The Unarchiver }
+  - { id: 1278508951, name: Trello }
+  - { id: 1384080005, name: Tweetb } # Tweetbot
   - { id: 414855915, name: WinArchiver Lite }
-  - { id: 497799835, name: Xco }
+  - { id: 497799835, name: Xco } # Xcode
   - { id: 457622435, name: Yoink }
