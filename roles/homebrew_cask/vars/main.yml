@@ -5,18 +5,17 @@ packages:
   - { name: adobe-creative-cloud, state: present }
   - { name: alfred, state: present }
   - { name: appcleaner, state: present }
-  - { name: application-loader, state: present }
+  - { name: application-loader, state: present } # Need Password
   - { name: bartender, state: present }
   - { name: blisk, state: present }
   - { name: chat, state: present }
-  - { name: chatwork, state: present }
+  - { name: google-chat, state: present }
   - { name: chatwork, state: present }
   - { name: clipy, state: present }
   - { name: dash, state: present }
   - { name: day-o, state: present }
   - { name: dash, state: present }
   - { name: discord, state: present }
-  - { name: dropbox, state: present }
   - { name: dropbox, state: present }
   - { name: firefox, state: present }
   - { name: flux, state: present }
@@ -29,7 +28,7 @@ packages:
   - { name: hyperswitch, state: present }
   - { name: iterm2, state: present }
   - { name: kindle, state: present }
-  - { name: mamp, state: present }
+  - { name: mamp, state: present } # Need Password
   - { name: mysqlworkbench, state: present }
   - { name: opera, state: present }
   - { name: postman, state: present }
