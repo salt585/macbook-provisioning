@@ -10,4 +10,5 @@
   gather_facts: yes
   roles:
     - homebrew
+    - homebrew_cask
     - mas
