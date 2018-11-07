@@ -8,7 +8,6 @@ packages:
   - { name: application-loader, state: present } # Need Password
   - { name: bartender, state: present }
   - { name: blisk, state: present }
-  - { name: chat, state: present }
   - { name: google-chat, state: present }
   - { name: chatwork, state: present }
   - { name: clipy, state: present }
@@ -16,6 +15,7 @@ packages:
   - { name: day-o, state: present }
   - { name: dash, state: present }
   - { name: discord, state: present }
+  - { name: docker, state: present }
   - { name: dropbox, state: present }
   - { name: firefox, state: present }
   - { name: flux, state: present }
