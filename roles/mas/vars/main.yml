@@ -9,18 +9,14 @@ packages:
   - { id: 918858936, name: Airmail 3 }
   - { id: 529456740, name: CheatSheet }
   - { id: 847515307, name: FilePane }
+  - { id: 768053424, name: Gapplin }
   - { id: 408981434, name: iMovie }
   - { id: 409183694, name: Keynote }
-  - { id: 896624060, name: Kobito }
-  - { id: 539883307, name: LINE }
   - { id: 441258766, name: Magn } # Magnet
   - { id: 714196447, name: MenuBar Stats }
-  - { id: 402398561, name: MindNode Pro }
-  - { id: 1289197285, name: MindNo }
   - { id: 409203825, name: Numbers }
   - { id: 409201541, name: Pages }
   - { id: 866773894, name: Quiver }
-  - { id: 1176895641, name: Spark }
   - { id: 507257563, name: Sip }
   - { id: 425955336, name: Skitch }
   - { id: 803453959, name: Slack }
@@ -30,7 +26,6 @@ packages:
   - { id: 600842582, name: TextScr } # TextScrub
   - { id: 955848755, name: Theine }
   - { id: 425424353, name: The Unarchiver }
-  - { id: 1278508951, name: Trello }
   - { id: 1384080005, name: Tweetb } # Tweetbot
   - { id: 414855915, name: WinArchiver Lite }
   - { id: 497799835, name: Xco } # Xcode
