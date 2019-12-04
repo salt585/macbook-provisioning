@@ -5,11 +5,11 @@ packages:
   - { name: adobe-creative-cloud, state: present }
   - { name: alfred, state: present }
   - { name: appcleaner, state: present }
-  - { name: application-loader, state: present } # Need Password
   - { name: bartender, state: present }
   - { name: blisk, state: present }
   - { name: google-chat, state: present }
   - { name: clipy, state: present }
+  - { name: cmd-eikana, state: present }
   - { name: dash, state: present }
   - { name: day-o, state: present }
   - { name: dash, state: present }
@@ -25,10 +25,10 @@ packages:
   - { name: mamp, state: present } # Need Password
   - { name: mysqlworkbench, state: present }
   - { name: postman, state: present }
+  - { name: rubymine, state: present }
   - { name: sequel-pro, state: present }
   - { name: skype, state: present }
   - { name: sourcetree, state: present }
   - { name: vagrant, state: present }
   - { name: vagrant-manager, state: present }
-  - { name: virtualbox, state: present }
   - { name: visual-studio-code, state: present }
