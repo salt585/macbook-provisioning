@@ -2,9 +2,7 @@
 # file: ./homebrew/vars/main.yml
 
 taps:
-  - caskroom/cask
-  - caskroom/versions
-  - homebrew/boneyard
+  - homebrew/homebrew-cask
 
 packages:
   - { name: ansible, state: present }
