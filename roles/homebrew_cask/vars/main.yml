@@ -28,6 +28,7 @@ packages:
   - { name: rubymine, state: present }
   - { name: sequel-pro, state: present }
   - { name: skype, state: present }
+  - { name: slack, state: present }
   - { name: sourcetree, state: present }
   - { name: vagrant, state: present }
   - { name: vagrant-manager, state: present }

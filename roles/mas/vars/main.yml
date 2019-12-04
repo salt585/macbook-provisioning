@@ -19,7 +19,6 @@ packages:
   - { id: 866773894, name: Quiver }
   - { id: 507257563, name: Sip }
   - { id: 425955336, name: Skitch }
-  - { id: 803453959, name: Slack }
   - { id: 1152443474, name: Squash }
   - { id: 410479438, name: Tab Notes Free }
   - { id: 665702825, name: Tab Notes Theme Editor }
