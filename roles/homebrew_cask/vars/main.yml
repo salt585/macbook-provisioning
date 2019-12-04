@@ -32,3 +32,6 @@ packages:
   - { name: vagrant, state: present }
   - { name: vagrant-manager, state: present }
   - { name: visual-studio-code, state: present }
+
+fonts:
+  - { name: font-ricty-diminished }

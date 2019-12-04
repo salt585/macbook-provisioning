@@ -3,6 +3,7 @@
 
 taps:
   - homebrew/homebrew-cask
+  - homebrew/homebrew-cask-fonts
 
 packages:
   - { name: ansible, state: present }
