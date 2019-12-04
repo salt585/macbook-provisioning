@@ -1,0 +1,22 @@
+---
+# file: ./homebrew_cask/tasks/main.yml
+
+- block:
+  - name: homebrew cask install packages
+    environment:
+      HOMEBREW_CASK_OPTS: --appdir=/Applications
+    homebrew_cask:
+      name: "{{ item.name }}"
+      state: "{{ item.state | default('present') }}"
+    with_items: "{{ packages }}"
+
+  - name: homebrew cask install fonts
+    environment:
+      HOMEBREW_CASK_OPTS: --appdir=/Library/Fonts/
+    homebrew_cask:
+      name: "{{ item.name }}"
+    with_items: "{{ fonts }}"
+
+  tags:
+    - homebrew
+    - homebrew_cask

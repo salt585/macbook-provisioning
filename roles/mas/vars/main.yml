@@ -1,0 +1,32 @@
+---
+# file: ./mas/vars/main.yml
+
+apple:
+  - { id: APPLE_ID }
+
+packages:
+  - { id: 443987910, name: 1Password }
+  - { id: 918858936, name: Airmail 3 }
+  - { id: 529456740, name: CheatSheet }
+  - { id: 847515307, name: FilePane }
+  - { id: 768053424, name: Gapplin }
+  - { id: 408981434, name: iMovie }
+  - { id: 409183694, name: Keynote }
+  - { id: 441258766, name: Magn } # Magnet
+  - { id: 714196447, name: MenuBar Stats }
+  - { id: 409203825, name: Numbers }
+  - { id: 409201541, name: Pages }
+  - { id: 866773894, name: Quiver }
+  - { id: 507257563, name: Sip }
+  - { id: 425955336, name: Skitch }
+  - { id: 803453959, name: Slack }
+  - { id: 1152443474, name: Squash }
+  - { id: 410479438, name: Tab Notes Free }
+  - { id: 665702825, name: Tab Notes Theme Editor }
+  - { id: 600842582, name: TextScr } # TextScrub
+  - { id: 955848755, name: Theine }
+  - { id: 425424353, name: The Unarchiver }
+  - { id: 1384080005, name: Tweetb } # Tweetbot
+  - { id: 414855915, name: WinArchiver Lite }
+  - { id: 497799835, name: Xco } # Xcode
+  - { id: 457622435, name: Yoink }

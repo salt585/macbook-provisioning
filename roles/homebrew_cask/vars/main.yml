@@ -1,0 +1,37 @@
+---
+# file: ./homebrew_cask/vars/main.yml
+
+packages:
+  - { name: adobe-creative-cloud, state: present }
+  - { name: alfred, state: present }
+  - { name: appcleaner, state: present }
+  - { name: bartender, state: present }
+  - { name: blisk, state: present }
+  - { name: google-chat, state: present }
+  - { name: clipy, state: present }
+  - { name: cmd-eikana, state: present }
+  - { name: dash, state: present }
+  - { name: day-o, state: present }
+  - { name: dash, state: present }
+  - { name: discord, state: present }
+  - { name: docker, state: present }
+  - { name: firefox, state: present }
+  - { name: forklift, state: present }
+  - { name: github, state: present }
+  - { name: gitup, state: present }
+  - { name: google-chrome, state: present }
+  - { name: hyperswitch, state: present }
+  - { name: iterm2, state: present }
+  - { name: mamp, state: present } # Need Password
+  - { name: mysqlworkbench, state: present }
+  - { name: postman, state: present }
+  - { name: rubymine, state: present }
+  - { name: sequel-pro, state: present }
+  - { name: skype, state: present }
+  - { name: sourcetree, state: present }
+  - { name: vagrant, state: present }
+  - { name: vagrant-manager, state: present }
+  - { name: visual-studio-code, state: present }
+
+fonts:
+  - { name: font-ricty-diminished }
